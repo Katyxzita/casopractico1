@@ -1,0 +1,2 @@
+# casopractico1
+Caso practico #1 FUNDAMENTOS DE PR0OGRAMACION CON PYTHON
